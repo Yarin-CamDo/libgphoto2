@@ -2367,9 +2367,9 @@ static struct {
 	{"GoPro:HERO7 Black",			0x2672, 0x0047, 0},
 	
 	
-	{ "GoPro: HERO 2018", 			0x2672, 0x002d, 0},
-	{ "GoPro:FUSION (back)", 			0x2672, 0x0032, 0},
-	{ "GoProFUSION (front)", 			0x2672, 0x0035, 0},
+	{"GoPro:HERO 2018", 			0x2672, 0x002d, 0},
+	{"GoPro:FUSION (back)", 		0x2672, 0x0032, 0},
+	{"GoPro:FUSION (front)", 		0x2672, 0x0035, 0},
 #endif
 };
 
