@@ -2364,6 +2364,7 @@ static struct {
 
 	/* https://sourceforge.net/p/libmtp/feature-requests/239/ */
 	{"GoPro:HERO6 Black",			0x2672, 0x0037, 0},
+	{"GoPro:HERO7 Black",			0x2672, 0x0047, 0},
 #endif
 };
 
